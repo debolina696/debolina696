@@ -1,5 +1,5 @@
- Hi there 👋
-💼 Currently working as an MIS Analyst in an E- Commerce company , transforming raw business data into actionable insights for management decision-making.
+ Hi Everybody 👋 
+💼 Currently I am working as an MIS Analyst in an E- Commerce company, transforming raw business data into actionable insights for management decision-making.
 🔍 I work on end-to-end data analysis projects including:
 	•	📈 Sales Analysis
 	•	🎯 Achievement vs Target Tracking
