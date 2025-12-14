@@ -12,7 +12,7 @@
 	•	SQL (Basic ➜ Advanced) – Data extraction, joins, subqueries, performance analysis
 
 📊 Data Analysis & Automation
-	•	Advanced Excel – Pivot Tables, Power Query, Power Pivot, complex formulas
+	•	Advanced Excel – Pivot Tables, Power Query, Power Pivot, complex formulas , advanced DAX
 	•	VBA – Automating repetitive tasks, MIS reporting, data validation
 
 📉 Data Visualization & BI
@@ -26,7 +26,7 @@
 	•	Analyze trends, performance gaps & growth opportunities
 	•	Automate manual reporting processes
 	•	Deliver data-driven insights for strategic decisions
-📂 Featured Projects (Pinned Repositories)
+📂 Featured Projects 
 	•	📊 Sales & Revenue Dashboard
 	•	🎯 Target vs Achievement Analysis
 	•	👥 Employee Performance KPI Dashboard
@@ -39,7 +39,7 @@
 	•	📌 Data-driven Decision Support
 
 📫 Let’s Connect
-	•	💼 LinkedIn: 
+	•	💼 LinkedIn: https://www.linkedin.com/in/debolina-sorkhel-91647526b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 	•	📧 Email: debolina696@gmail.com 
 
 
